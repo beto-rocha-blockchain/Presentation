@@ -1,4 +1,12 @@
 # Roberto da Rocha Pimentel Júnior
+Each profile tells a story, and this one might be about mine.
+
+Currently pursuing a career in web3 development, but already working in several areas of technology.
+
+A Marine since 2007, currently in the reserves, I started my studies at the Federal University CEFET in Petrópolis for a Bachelor's degree in Physics, and from then on my interest in science and technology only grew more and more. I taught physics to high school students, computer science and mathematics to all ages. I taught HTML5, CSS3, JavaScript, programming in several languages, game development, application development, robotics, English, among others.
+
+I developed my own English course for hotel and restaurant workers. The course has a PDF booklet that can also be printed and throughout the course it provides the basic content to train professionals in the use of key words, basic forms of treatment with customers, politeness when communicating, among other things about the hotel and restaurant environment. The course includes a workbook, in-person classes and a strategically designed schedule for more inclusive learning, where people who have never spoken another language will be able to communicate well enough to provide professional service at the establishment where they work after completing the course. And a special certificate is guaranteed to the student, as a professional qualified to serve international customers in a hotel or restaurant environment.
+
  Cada perfil conta uma história, e esse talvez seja sobre a minha.
  Atualmente em busca da carreira em desenvolvimento web3, mas já atuante em diversas áreas da tecnologia.
  

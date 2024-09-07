@@ -1,4 +1,4 @@
-# Roberto da Rocha Pimentel Júnior
+# **Roberto da Rocha Pimentel Júnior**
 Each profile tells a story, and this one might be about mine.
 
 I am currently pursuing a career in web3 development, but I have worked in several technology areas.

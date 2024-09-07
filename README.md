@@ -7,6 +7,10 @@ A Brazilian, a Marine since 2007, currently in the reserves, I began my studies 
 
 I developed my own English course for hotel and restaurant workers. The course has a PDF booklet that can also be printed. Throughout the course, it provides the basic content to train professionals in using keywords, basic forms of dealing with customers, and polite communication, among other aspects of the hotel and restaurant environment. The course includes a workbook, in-person classes, and a strategically designed schedule for more inclusive learning, where people who have never spoken another language can communicate well enough to provide professional service in the establishment where they work after completing the course. And a special certificate is guaranteed to the student, as a professional qualified to serve international customers in a hotel or restaurant environment.
 
+
+#                                                                                                                                                                                         
+
+
 # **Roberto da Rocha Pimentel Júnior**
 
 Atualmente estou iniciando uma carreira em desenvolvimento web3, mas já trabalhei em diversas áreas de tecnologia.

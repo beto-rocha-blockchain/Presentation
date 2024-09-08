@@ -21,8 +21,11 @@ Brasileiro, fuzileiro naval desde 2007, atualmente na reserva, comecei meus estu
 
 Desenvolvi meu próprio curso de inglês para trabalhadores de hotéis e restaurantes. O curso tem um livreto em PDF que também pode ser impresso. Ao longo do curso, ele fornece o conteúdo básico para treinar profissionais no uso de palavras-chave, formas básicas de lidar com clientes e comunicação educada, entre outros aspectos do ambiente hoteleiro e de restaurantes. O curso inclui uma apostila, aulas presenciais e um cronograma estrategicamente elaborado para um aprendizado mais inclusivo, onde pessoas que nunca falaram outro idioma podem se comunicar bem o suficiente para prestar um serviço profissional no estabelecimento onde trabalham após a conclusão do curso. E um certificado especial é garantido ao aluno, como um profissional qualificado para atender clientes internacionais em um ambiente de hotel ou restaurante.
 
+Meu perfil do Linkedin [![LinkedIn](https://github.com/beto-rocha-blockchain/Presentation/blob/main/images.png?raw=true)](https://www.linkedin.com/in/robertoblockchainresources/)
+
 
 #                                                                                                                                                                                         
+
 
 Programming languages / Linguagens de programação
 

@@ -22,12 +22,13 @@ Desenvolvi meu próprio curso de inglês para trabalhadores de hotéis e restaur
 
 #                                                                                                                                                                                         
 
+Programming languages / Linguagens de programação
 
 - [x] HTML5
 - [x] CSS3
 - [x] JavaScript
 - [x] Solidity
 - [x] Cairo
-- [] Rusty
-- [] Python
-- [] PHP
+- [In progress] Rusty
+- [In progress] Python
+- [In progress] PHP

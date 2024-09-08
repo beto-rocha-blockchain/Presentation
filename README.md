@@ -1,4 +1,5 @@
-# **Roberto da Rocha Pimentel Júnior**
+# Hello, my name is **Roberto Pimentel**!
+
 ## Each profile tells a story, and this one might be about mine.
 
 I am currently embarking on a career in web3 development, but I have worked in several technology areas.
@@ -13,13 +14,15 @@ My LinkedIn profile [![LinkedIn](https://github.com/beto-rocha-blockchain/Presen
 #                                                                                                                                                                                         
 
 
-# **Roberto da Rocha Pimentel Júnior**
+# Olá, meu nome é **Roberto Pimentel**!
+
+Cada perfil conta uma história, e esse provavelmente é sobre a minha.
 
 Atualmente estou iniciando uma carreira em desenvolvimento web3, mas já trabalhei em diversas áreas de tecnologia.
 
-Brasileiro, fuzileiro naval desde 2007, atualmente na reserva, comecei meus estudos na Universidade Federal CEFET em Petrópolis para o Bacharelado em Física, e a partir daí meu interesse por ciência e tecnologia só cresceu mais e mais. Dei aulas de física para alunos do ensino médio, ciência da computação e matemática para todas as idades. Dei aulas de HTML5, CSS3, JavaScript, programação em diversas linguagens, desenvolvimento de jogos, desenvolvimento de aplicativos, robótica, inglês e outros conteúdos relacionados à tecnologia.
+Brasileiro, fuzileiro naval desde 2007, atualmente na reserva, comecei meus estudos na Universidade Federal CEFET em Petrópolis para o Bacharelado em Física, e a partir daí meu interesse por ciência e tecnologia só cresceu mais e mais. Dei aulas de física para alunos do ensino médio, informática e matemática para todas as idades. Dei aulas de HTML5, CSS3, JavaScript, programação em diversas linguagens, desenvolvimento de jogos, desenvolvimento de aplicativos, robótica, inglês e outros conteúdos relacionados à tecnologia.
 
-Desenvolvi meu próprio curso de inglês para trabalhadores de hotéis e restaurantes. O curso tem um livreto em PDF que também pode ser impresso. Ao longo do curso, ele fornece o conteúdo básico para treinar profissionais no uso de palavras-chave, formas básicas de lidar com clientes e comunicação educada, entre outros aspectos do ambiente hoteleiro e de restaurantes. O curso inclui uma apostila, aulas presenciais e um cronograma estrategicamente elaborado para um aprendizado mais inclusivo, onde pessoas que nunca falaram outro idioma podem se comunicar bem o suficiente para prestar um serviço profissional no estabelecimento onde trabalham após a conclusão do curso. E um certificado especial é garantido ao aluno, como um profissional qualificado para atender clientes internacionais em um ambiente de hotel ou restaurante.
+Desenvolvi meu próprio curso de inglês para trabalhadores de hotéis e restaurantes. O curso tem uma apostila em PDF que também pode ser impresso. Ao longo do curso, ela fornece o conteúdo básico para treinar profissionais no uso de palavras-chave, formas básicas de lidar com clientes e comunicação educada, entre outros aspectos do ambiente hoteleiro e de restaurantes. O curso inclui uma apostila, aulas presenciais e um cronograma estrategicamente elaborado para um aprendizado mais inclusivo, onde pessoas que nunca falaram outro idioma podem se comunicar bem o suficiente para prestar um serviço profissional no estabelecimento onde trabalham após a conclusão do curso. E um certificado especial é garantido ao aluno, como um profissional qualificado para atender clientes internacionais em um ambiente de hotel ou restaurante.
 
 Meu perfil do Linkedin [![LinkedIn](https://github.com/beto-rocha-blockchain/Presentation/blob/main/images.png?raw=true)](https://www.linkedin.com/in/robertoblockchainresources/)
 
@@ -27,7 +30,7 @@ Meu perfil do Linkedin [![LinkedIn](https://github.com/beto-rocha-blockchain/Pre
 #                                                                                                                                                                                         
 
 
-Programming languages / Linguagens de programação
+Languages / Linguagens
 
 - [x] HTML5
 - [x] CSS3
